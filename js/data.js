@@ -1030,7 +1030,7 @@ const ARTICLE_DATA = {
 			sentences: [
 				{
 					en: 'As result of this work, the future possible lines of study are directed towards research on the implementation of embedded systems in PLCs aiming to improve the actual control methods at the industrial level while maintaining the strengths of the automata.',
-					ru: 'В результате этой работы будущие возможные направления исследований ориентированы на изучение внедрения встроенных систем в ПЛК с целью улучшения существующих методов управления на промышленном уровне при сохранении преимуществ автоматов.',
+					ru: 'В результате  этой работы будущие возможные направления исследований ориентированы на изучение внедрения встроенных систем в ПЛК с целью улучшения существующих методов управления на промышленном уровне при сохранении преимуществ автоматов.',
 				},
 				{
 					en: 'Similarly, research aiming towards the incorporation of advanced controls under IEC-61499 such as: diffuse control, adaptive control, robust control, or even neural networks are required.',
